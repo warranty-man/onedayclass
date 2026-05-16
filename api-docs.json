@@ -1688,10 +1688,6 @@
   ],
   "tags": [
     {
-      "description": "방문자 집계 API",
-      "name": "Visitors"
-    },
-    {
       "description": "관리자 전용 일반 회원 관리 API",
       "name": "Admin Users"
     },
@@ -1702,6 +1698,10 @@
     {
       "description": "회원 가입, 로그인, 토큰 갱신 API",
       "name": "Auth"
+    },
+    {
+      "description": "방문자 집계 API 테스트를 위해 변경합니다.",
+      "name": "Visitors"
     },
     {
       "description": "댓글 조회, 작성, 수정, 삭제 API",
